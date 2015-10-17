@@ -1,0 +1,29 @@
+/*custom added stuff*/
+
+/*http://www.himpfen.com/xl-button/*/
+.btn-xl {  
+    padding: 15px 22px;
+    font-size: 24px;
+    line-height: 1.33;
+    border-radius: 6px
+}
+
+#trumpFace {
+	z-index: -1;
+}
+
+#TrumpMouth {
+	position: absolute;
+	left: 64.5%;
+	top: 39.3%;
+	
+	width:9.4%;
+	height: auto;
+	z-index: 1;
+}
+
+.mouthOpen {
+	left: 62.3% !important;
+	top: 46% !important;
+}
+
